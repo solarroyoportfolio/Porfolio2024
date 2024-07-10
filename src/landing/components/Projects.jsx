@@ -73,6 +73,16 @@ export const Projects = () => {
 
         },
         {
+            title: 'Fullstack Python Codo a Codo',
+            description:'This was a final project of the course Fullstack Development in Python. It consist of a web page divided into two parts, the front and the back. We integrate the front with the back with Python. We did a database in "Pythonanywhere" and we deployed the front part in a server like netlify so we can put the two parts together',
+            subtitle: 'Study Project',
+            tech : 'HTML, CSS, JavaScript, Bootstrap,Python,PhpMyAdmin,SQL,Github',
+            img: './projects/Fullstackpython.png',
+            link:'https://innovacionalcuadrado.netlify.app/',
+            git:'https://github.com/MariaSolArroyo/InnovacionAlCuadrado-GrupoXVII',
+
+        },
+        {
             title: 'Frontend BA Multiplica',
             description:'This was a final project of the course Frontend web development. This project consist in a web page for a random course web to buy courses. I try to use all the content we covered during the course. ',
             subtitle: 'Study Project',
