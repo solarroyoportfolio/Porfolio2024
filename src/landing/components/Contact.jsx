@@ -8,7 +8,7 @@ export const Contact = () => {
     <div className="h-full pb-28 justify-center items-center " id="contact">
       <SectionTitles subtitle="Get in touch" title="Contact" />
       <div className="lg:flex flex-col justify-center items-center gap-10">
-        <div className=" lg:flex flex-col justify-center items-center text-center gap-20 px-16">
+        <div className=" lg:flex justify-center items-center text-center gap-20 px-16">
           <div className="bg-color_bg_variant lg:p-16 p-12 mb-6 rounded-3xl text-color_white justify-center items-center text-center ">
             <div className="flex justify-center items-center text-xl text-color_primary">
               <MdOutlineAttachEmail />
