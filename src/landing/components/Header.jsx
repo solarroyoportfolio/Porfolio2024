@@ -49,7 +49,7 @@ export const Header = () => {
         </div>
         <a
           href="#contact"
-          className="flex justify-center items-center gap-2 text-color_primary absolute lg:right-10 right-0 bottom-1/2 rotate-90 "
+          className="lg:flex hidden justify-center items-center gap-2 text-color_primary absolute lg:right-10 right-0 bottom-1/2 rotate-90 "
         >
           Scroll Down <IoIosArrowForward />
         </a>

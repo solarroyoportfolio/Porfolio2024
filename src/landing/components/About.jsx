@@ -1,11 +1,10 @@
-import React from "react";
 import { SectionTitles } from "../../components/SectionTitles";
 
 export const About = () => {
   return (
     <div
       id="about"
-      className="min-h-96 justify-center text-center items-center p-20 py-12 lg:pb-10 leading-10"
+      className="min-h-96 justify-center text-center items-center lg:p-20 p-12 py-12 lg:pb-10 leading-10"
     >
      <SectionTitles subtitle="Get to know me" title="About" />
 

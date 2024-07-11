@@ -1,9 +1,7 @@
-import React from "react";
 import { SectionTitles } from "../../components/SectionTitles";
 import { MdOutlineAttachEmail } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { LuSendHorizonal } from "react-icons/lu";
 
 export const Contact = () => {
   return (
