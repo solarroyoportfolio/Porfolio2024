@@ -6,7 +6,7 @@ import { FaBehanceSquare } from "react-icons/fa";
 
 export const SocialHeader = () => {
   return (
-    <div className='header_socials flex-col items-center justify-center text-color_primary absolute left-2   bottom-1/2 w-full h-auto'>
+    <div className='header_socials flex-col items-center justify-center text-color_primary absolute lg:left-10 left-2 bottom-1/2 w-full h-auto'>
         <a href="https://www.linkedin.com/in/mariasolarroyoc/" className='' target='_blank'>
             <FaLinkedin className='mb-4' />
         </a>
