@@ -123,7 +123,7 @@ export const Design = () => {
 
   return (
     <div
-      className="min-h-[100vh] justify-center  text-center items-center lg:p-20 lg:pt-10 leading-10"
+      className="lg:min-h-[100vh] justify-center  text-center items-center lg:p-20 lg:pt-10 leading-10"
       id="design"
     >
       <SectionTitles subtitle="Social Media" title="My Designs" />
