@@ -148,7 +148,7 @@ export const Design = () => {
         {images.map((i, index) => (
             <SwiperSlide key={index}>
 
-          <div className="bg-color_bg flex flex-col gap-6 relative shadow-lg mb-20 text-color_white rounded-xl px-6 py-8 h-[250px] w-[215px] lg:h-[400px] lg:w-[330px] overflow-hidden cursor-pointer"     
+          <div className="bg-color_bg flex flex-col gap-6 relative shadow-lg mb-20 text-color_white rounded-xl px-6 py-8 h-[250px] w-[200px] lg:h-[400px] lg:w-[330px] overflow-hidden cursor-pointer"     
               onClick={() => openModal(i.url)}
 
 >
