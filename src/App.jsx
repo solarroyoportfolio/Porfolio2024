@@ -1,5 +1,6 @@
 import { About } from "./landing/components/About";
 import { Contact } from "./landing/components/Contact";
+import { Design } from "./landing/components/Design";
 import { Experience } from "./landing/components/Experience";
 import { Footer } from "./landing/components/Footer";
 import { Header } from "./landing/components/Header";
@@ -15,6 +16,7 @@ export default function App() {
        <About />
        <Experience />
        <Projects />
+       <Design />
        <Contact />
        <Footer />
     </div>

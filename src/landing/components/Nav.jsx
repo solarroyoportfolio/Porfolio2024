@@ -4,6 +4,7 @@ import { UserIcon } from "../../components/UserIcon";
 import { SkillsIcon } from "../../components/SkillsIcon";
 import { ServicesIcon } from "../../components/ServicesIcon";
 import { ContactIcon } from "../../components/ContactIcon";
+import { BrushIcon } from "../../components/BrushIcon";
 
 export const Nav = () => {
   const [active, setActive] = useState("#");
@@ -40,6 +41,14 @@ export const Nav = () => {
       >
         {" "}
         <ServicesIcon />
+      </a>
+      <a
+        onClick={() => setActive("#design")}
+        className={`  p-3 rounded-[3rem]  text-[1.1rem] ${active === "#design" ? "active bg-color_primary text-color_bg" : "hover:bg-[#0000004d] hover:text-color_white"}
+        `}        href="#design"
+      >
+        {" "}
+        <BrushIcon />
       </a>
       <a
         onClick={() => setActive("#contact")}
