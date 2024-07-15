@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { HomeIcon } from "../../components/HomeIcon";
 import { UserIcon } from "../../components/UserIcon";
 import { SkillsIcon } from "../../components/SkillsIcon";
