@@ -36,75 +36,75 @@ export const Design = () => {
 
   const images = [
     {
-        url: "./public/design/sofi2.png",
+        url: "assets/design/sofi2.png",
         name: "Carlitos Arias",
       },
     {
-      url: "./public/design/carlitos6.png",
+      url: "assets/design/carlitos6.png",
       name: "Carlitos Arias",
     },
     {
-        url: "./public/design/carlitos7.png",
+        url: "assets/design/carlitos7.png",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos8.jpg",
+        url: "assets/design/carlitos8.jpg",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos9.jpg",
+        url: "assets/design/carlitos9.jpg",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos4.png",
+        url: "assets/design/carlitos4.png",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos5.png",
+        url: "assets/design/carlitos5.png",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos10.jpg",
+        url: "assets/design/carlitos10.jpg",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos11.jpg",
+        url: "assets/design/carlitos11.jpg",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos13.jpg",
+        url: "assets/design/carlitos13.jpg",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos14.png",
+        url: "assets/design/carlitos14.png",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos15.png",
+        url: "assets/design/carlitos15.png",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/carlitos16.jpeg",
+        url: "assets/design/carlitos16.jpeg",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/cuandoduerme.png",
+        url: "assets/design/cuandoduerme.png",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/isa1.webp",
+        url: "assets/design/isa1.webp",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/punto1.webp",
+        url: "assets/design/punto1.webp",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/punto2.webp",
+        url: "assets/design/punto2.webp",
         name: "Carlitos Arias",
       },
       {
-        url: "./public/design/sofi1.png",
+        url: "assets/design/sofi1.png",
         name: "Carlitos Arias",
       },]
 
