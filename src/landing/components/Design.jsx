@@ -36,6 +36,10 @@ export const Design = () => {
 
   const images = [
     {
+      url: "assets/design/minimercado.png",
+      name: "Carlitos Arias",
+    },
+    {
         url: "assets/design/sofi2.png",
         name: "Carlitos Arias",
       },
