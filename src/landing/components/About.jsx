@@ -11,7 +11,7 @@ export const About = () => {
       <div className="justify-center items-center lg:flex my-2 ">
         <div className="lg:mr-24 rounded-full bg-gradient-to-br from-color_transparent to-color_primary lg:flex items-center justify-center overflow-hidden opacity-80 mb-12 ">
           <div className="rounded-[2rem] overflow-hidden transform rotate-[8deg] hover:rotate-0">
-            <img src="/mepng.png" className="" alt="" />
+            <img src="/me.png" className="" alt="" />
           </div>
         </div>
         <div className="lg:text-start lg:w-1/2 justify-center items-center">

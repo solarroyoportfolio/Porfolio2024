@@ -40,10 +40,10 @@ export const Header = () => {
   />
 
         <Cta button1="Download CV" button2="Let's Talk" link1="https://drive.google.com/file/d/1zPR-rxqti4z9hlEsiXwapkSG767DM65L/view" link2="#contact"/>
-        <div className="relative mt-16 pt-[.6rem] px-[1.5rem] pb-[1.5rem] flex justify-center items-center ">
+        <div className="relative mt-4 pt-[.6rem] px-[1.5rem] pb-[1.5rem] flex justify-center items-center ">
           <img
-            src="/mepng.png"
-            className="w-80   rounded-[12rem] bg-gradient-to-b from-color_primary to-color_bg_variant "
+            src="/mepng2.png"
+            className="w-80  rounded-[14rem] bg-gradient-to-b from-color_primary to-color_bg_variant "
             alt=""
           />
         </div>
