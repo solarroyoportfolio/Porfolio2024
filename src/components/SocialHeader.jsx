@@ -9,7 +9,7 @@ export const SocialHeader = () => {
         <a href="https://www.linkedin.com/in/mariasolarroyoc/" className='' target='_blank'>
             <FaLinkedin className='mb-4' />
         </a>
-        <a href="https://github.com/MariaSolArroyo" target='_blank' className=''>
+        <a href="https://github.com/MSolarroyo" target='_blank' className=''>
         <FaGithub className='mb-4' />
         </a>
         <a href="https://www.behance.net/mariasolarroyoc" className='' target='_blank'>

@@ -28,9 +28,9 @@ export const Contact = () => {
               <FaGithub />
             </div>
             <p>Github</p>
-            <p className="font-thin text-[0.8rem]">MariaSolArroyo</p>
+            <p className="font-thin text-[0.8rem]">MSolArroyo</p>
             <a
-              href="https://github.com/MariaSolArroyo"
+              href="https://github.com/MSolArroyo"
               target="_blank"
               className="text-color_primary"
             >

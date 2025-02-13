@@ -19,3 +19,26 @@ export default {
   },
   plugins: [],
 }
+
+
+// /** @type {import('tailwindcss').Config} */
+// export default {
+//   content: [
+//     "./index.html",
+//     "./src/**/*.{js,ts,jsx,tsx}",
+//   ],
+//   theme: {
+//     extend: {},
+//     colors:{
+//       color_bg:'#4c0519',
+//       color_bg_variant:'#be123c',
+//       color_primary : '#fb7185',
+//       color_white : '#fff',
+//       color_transparent : 'transparent',
+//       color_gray: '#fecdd3',
+
+
+//     }
+//   },
+//   plugins: [],
+// }

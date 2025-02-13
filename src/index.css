@@ -23,8 +23,12 @@ html{
 
 body{
     font-family: "Poppins", sans-serif;
-    background: var(--color-bg);
+    /* background: var(--color-bg); */
     
+}
+
+.swiper-pagination-bullet{
+display: none;
 }
 
 

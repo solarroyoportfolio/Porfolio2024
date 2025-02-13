@@ -10,7 +10,7 @@ import { Projects } from "./landing/components/Projects";
 export default function App() {
   return (
     
-    <div className="overflow-hidden">
+    <div className="overflow-hidden bg-color_bg">
        <Header />
        <Nav />
        <About />

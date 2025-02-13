@@ -5,6 +5,20 @@ export const Projects = () => {
 
     const projects = [
         {
+            title: 'Landing Hoteles',
+            description:"This is a landing page built as a foundation to showcase hotels. Its goal is to present the hotel and its services. It is designed to offer my services as a developer to hotels that could benefit from my help",
+            subtitle: 'Work Project',
+            tech : 'React,Tailwind,NextJs',
+            img: 'projects/webhotel.png',
+            link: 'https://landing-hoteles.vercel.app/',
+            git:'https://landing-hoteles.vercel.app/',
+            stack: [
+                'assets/stack/brand-nextjs.svg',
+                'assets/stack/brand-tailwind.svg',
+                'assets/stack/brand-react.svg'
+            ]
+        },
+        {
             title: 'Landing Hotels',
             description:"This is a landing page built as a foundation to showcase hotels. Its goal is to present the hotel and its services. It is designed to offer my services as a developer to hotels that could benefit from my help",
             subtitle: 'Work Project',
@@ -21,6 +35,13 @@ export const Projects = () => {
             img: 'projects/estudiointegral.png',
             link: 'https://estudiointegrala.com.ar/',
             git:'https://estudiointegrala.com.ar/',
+            stack: [
+                'assets/stack/brand-react.svg',
+                'assets/stack/brand-tailwind.svg',
+                'assets/stack/brand-figma.svg',
+
+                
+            ]
         },
         {
             title: 'Backroom Estudio',
@@ -29,7 +50,12 @@ export const Projects = () => {
             tech : 'HTML, CSS, JavaScript, Bootstrap',
             img: 'projects/backroom/backroomestudio.png',
             link: 'https://estudiobackroom.com/',
-            git:'https://backroomestudio.netlify.app/'
+            git:'https://backroomestudio.netlify.app/',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg'
+            ]
         },
         {
             title: 'Backroom Estudio',
@@ -39,6 +65,13 @@ export const Projects = () => {
             img: 'projects/backroom/backroom.png',
             link: 'https://backroom23.netlify.app//',
             git:'https://github.com/solarroyoportfolio/br',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+                'assets/stack/brand-bootstrap.svg'
+
+            ]
 
         },
         {
@@ -49,6 +82,11 @@ export const Projects = () => {
             img: 'projects/backroom/s&h.png',
             link: 'https://syhconsultora.com.ar',
             git:'https://syhconsultora.com.ar',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg'
+            ]
 
         },
         {
@@ -59,6 +97,12 @@ export const Projects = () => {
             img: 'projects/backroom/orthowebinars1.png',
             link:'https://orthowebinars.com/',
             git:'https://orthowebinars.com/',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+                'assets/stack/brand-bootstrap.svg'
+            ]
 
         },
         {
@@ -69,6 +113,11 @@ export const Projects = () => {
             img: 'projects/backroom/Servicred.png',
             link:'https://servicredargentina.com.ar/',
             git:'https://servicredargentina.com.ar/',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg'
+            ]
 
         },
         {
@@ -79,6 +128,11 @@ export const Projects = () => {
             img: 'projects/backroom/ediba1.png',
             link:'https://www.ediba.com/',
             git:'https://www.ediba.com/',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg'
+            ]
 
         },
         {
@@ -89,6 +143,14 @@ export const Projects = () => {
             img: './projects/Fullstackpython.png',
             link:'https://innovacionalcuadrado.netlify.app/',
             git:'https://github.com/MariaSolArroyo/InnovacionAlCuadrado-GrupoXVII',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+                'assets/stack/brand-bootstrap.svg',
+                'assets/stack/brand-python.svg',
+                'assets/stack/brand-figma.svg'
+            ]
 
         },
         {
@@ -99,6 +161,13 @@ export const Projects = () => {
             img: 'projects/frontendBA.png',
             link:'https://mariasolarroyo.github.io/BA-Multiplica-Proyecto-FrontEnd/',
             git:'https://github.com/MariaSolArroyo/BA-Multiplica-Proyecto-FrontEnd',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+                'assets/stack/brand-bootstrap.svg',
+                'assets/stack/brand-figma.svg'
+            ]
 
         },
         {
@@ -109,6 +178,13 @@ export const Projects = () => {
             img: 'projects/potrero/backendpotrero.png',
             link:'http://sollarroyo.pythonanywhere.com/',
             git:'https://github.com/MariaSolArroyo/ProyectoEcommersePD',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+                'assets/stack/brand-bootstrap.svg',
+                'assets/stack/brand-python.svg',
+            ]
 
         },
         {
@@ -119,6 +195,11 @@ export const Projects = () => {
             img: 'projects/potrero/frontendpotrero.png',
             link:'https://mariasolarroyo.github.io/ProyectoWebPD/',
             git:'https://github.com/MariaSolArroyo/ProyectoWebPD',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+            ]
 
         },
         {
@@ -129,6 +210,12 @@ export const Projects = () => {
             img: 'projects/ADIMRA.png',
             link:'https://mariasolarroyo.github.io/DesarrolloWebAdimra/',
             git:'',
+                stack: [
+                    'assets/stack/html.svg',
+                    'assets/stack/file-type-css.svg',
+                    'assets/stack/brand-javascript.svg',
+                ]
+        
 
         },
         {
@@ -139,6 +226,12 @@ export const Projects = () => {
             img: 'projects/frontendTICMAS.png',
             link:'https://mariasolarroyo.github.io/',
             git:'https://github.com/MariaSolArroyo/DesarrolloWebAdimra',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+                'assets/stack/brand-bootstrap.svg',
+            ]
 
         },
         {
@@ -149,6 +242,11 @@ export const Projects = () => {
             img: 'projects/FrontEndMentorChallengeQR.png',
             link:'https://mariasolarroyo.github.io/',
             git:'https://github.com/MariaSolArroyo/FrontEndMentor-Challenge-QR-code-component',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+            ]
 
         },
         {
@@ -159,6 +257,11 @@ export const Projects = () => {
             img: 'projects/clonegoogle.png',
             link:'https://github.com/MariaSolArroyo/CLONE-GOOGLE',
             git:'https://github.com/MariaSolArroyo/CLONE-GOOGLE',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+            ]
 
         },
         {
@@ -169,6 +272,12 @@ export const Projects = () => {
             img: 'projects/clonedribbble.png',
             link:'https://github.com/MariaSolArroyo/cloneFormularioDribbbleOscuro',
             git:'https://github.com/MariaSolArroyo/cloneFormularioDribbbleOscuro',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/file-type-css.svg',
+                'assets/stack/brand-javascript.svg',
+               
+            ]
 
         },
     ]
@@ -189,6 +298,13 @@ export const Projects = () => {
                             <h6 className='text-color_gray font-light text-[0.7rem]'>{p.subtitle}</h6>
                             <h2 className='text-color_primary font-medium text-xl'>{p.title}</h2>
                             <p className='font-extralight text-[0.7rem]'>{p.description}</p>
+                           <div className='flex justify-start items-center gap-2 my-3'>
+                           {p.stack.map((s,sindex)=>(
+                                <div key={sindex} className='bg-color_primary rounded-full p-1'>
+                                        <img src={s} alt="icono stack" className='h-4'  />      
+                                </div>
+                                ))}
+                           </div>
                            </div>
                             <div className='absolute bottom-4'>
                             <Cta button1="Github" button2="Live Demo" link1={p.git} link2={p.link}/>
