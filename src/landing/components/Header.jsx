@@ -7,7 +7,7 @@ export const Header = () => {
   return (
     <div className="h-[96vh] pt-28 overflow-hidden leading-10 text-color_white" id="home">
       <div className="text-center h-full relative flex-col justify-center items-center">
-        <h5> Hello I'm </h5>
+        <h5> Hello I`m </h5>
         <TypeAnimation
           sequence={["Maria", 500, "Sol", 500, "Arroyo", 500]}
           style={{ fontSize: "2em"}}

@@ -19,15 +19,6 @@ export const Projects = () => {
             ]
         },
         {
-            title: 'Landing Hotels',
-            description:"This is a landing page built as a foundation to showcase hotels. Its goal is to present the hotel and its services. It is designed to offer my services as a developer to hotels that could benefit from my help",
-            subtitle: 'Work Project',
-            tech : 'React,Tailwind,NextJs',
-            img: 'projects/webhotel.png',
-            link: 'https://landing-hoteles.vercel.app/',
-            git:'https://landing-hoteles.vercel.app/',
-        },
-        {
             title: 'Estudio Integral A',
             description:"This landing page created with React and Tailwind for Studio Integral A,looking for a user-friendly description and modern page, fully responsive. The page is still in progress in order to make it more complete and optimal for and engaging experience.",
             subtitle: 'Work Project',
@@ -306,7 +297,7 @@ export const Projects = () => {
                                 ))}
                            </div>
                            </div>
-                                                       <div className='absolute bottom-4'>
+                            <div className='absolute bottom-4'>
                             <Cta button1="Github" button2="Live Demo" link1={p.git} link2={p.link}/>
 
                             </div>
