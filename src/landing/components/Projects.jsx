@@ -306,7 +306,7 @@ export const Projects = () => {
                                 ))}
                            </div>
                            </div>
-                            <div className='absolute bottom-4'>
+                                                       <div className='absolute bottom-4'>
                             <Cta button1="Github" button2="Live Demo" link1={p.git} link2={p.link}/>
 
                             </div>
