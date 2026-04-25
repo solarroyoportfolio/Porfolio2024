@@ -32,7 +32,7 @@ export const Footer = () => {
         </div>
 
         <div className="flex justify-center items-center">
-          <small>2024-2025 &copy; María Sol Arroyo. All rights reserved</small>
+          <small>2024-2026 &copy; María Sol Arroyo. All rights reserved</small>
         </div>
     </footer>
   )

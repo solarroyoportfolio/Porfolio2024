@@ -39,7 +39,7 @@ export const Header = () => {
     repeat={Infinity}
   />
 
-        <Cta button1="Download CV" button2="Let's Talk" link1="https://drive.google.com/file/d/1zPR-rxqti4z9hlEsiXwapkSG767DM65L/view" link2="#contact"/>
+        <Cta button1="Download CV" button2="Let's Talk" link1="https://drive.google.com/file/d/1wDMMvZz8GKiMUTAF09pBwLBAyC0Bde2j/view?usp=sharing" link2="#contact"/>
         <div className="relative mt-4 pt-[.6rem] px-[1.5rem] pb-[1.5rem] flex justify-center items-center ">
           <img
             src="/mepng2.png"

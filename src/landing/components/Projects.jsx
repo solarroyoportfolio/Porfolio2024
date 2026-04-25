@@ -4,6 +4,89 @@ import { SectionTitles } from '../../components/SectionTitles'
 export const Projects = () => {
 
     const projects = [
+           {
+            title: 'Bilbao',
+            description:"Este proyecto fue realizado en el Estudio Backroom para la empresa Bilbao Cereal, con el objetivo de crear una página web que sirviera como plataforma para mostrar los servicios que ofrece la empresa. La página se desarrolló utilizando Html y Tailwind, con un diseño moderno y atractivo que busca captar la atención de los usuarios interesados en los productos y servicios de Bilbao Cereal. Se realizó en base a un diseño proporcionado por una colega diseñadora.",
+            subtitle: 'Work Project',
+            tech : 'Html,Tailwind',
+            img: 'projects/bilbao.png',
+            link: 'https://bilbaocereales.com.ar/',
+            git:'https://bilbaocereales.com.ar/',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/brand-tailwind.svg',
+                'assets/stack/brand-php.svg'
+            ]
+        },
+           {
+            title: 'Crenac',
+            description:"This project was done at Estudio Backroom for the financial company Crenac, developing a landing page that functions as a pre-entry to apply for a loan. The page was developed based on the design of a colleague designer, I coded the page using HTML and Tailwind, with the aim of creating an attractive and functional experience for users seeking information about the financial services offered by Crenac.",
+            subtitle: 'Work Project',
+            tech : 'Html,Tailwind',
+            img: 'projects/crenac.png',
+            link: 'https://www.crenac.com.ar/',
+            git:'https://www.crenac.com.ar/',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/brand-tailwind.svg',
+            ]
+        },
+           {
+            title: 'Mirada Lenta',
+            description:"This is the website of my photography entrepreneurship, as the website Mirada Lenta reflects my learning and growth process as a photographer. On this website, you can find my services, my projects, and my contact information.",
+            subtitle: 'Personal Project',
+            tech : 'React,Tailwind,NextJs',
+            img: 'projects/miradalenta.png',
+            link: 'https://miradalenta.vercel.app/',
+            git:'https://miradalenta.vercel.app/',
+            stack: [
+                'assets/stack/brand-nextjs.svg',
+                'assets/stack/brand-tailwind.svg',
+                'assets/stack/brand-react.svg'
+            ]
+        },
+           {
+            title: 'KEYMEX',
+            description:"This web was created for the KEYMEX group in the city of Bahía Blanca. The goal of the website is to showcase the services offered by the company, with a modern and attractive design, aiming to attract potential clients. The website features property filtering and similar characteristics to their main website.",
+            subtitle: 'Work Project',
+            tech : 'React,Tailwind,NextJs',
+            img: 'projects/keymex.png',
+            link: 'https://www.keymexlerose.com.ar/',
+            git:'https://www.keymexlerose.com.ar/',
+            stack: [
+                'assets/stack/brand-nextjs.svg',
+                'assets/stack/brand-tailwind.svg',
+                'assets/stack/brand-react.svg'
+            ]
+        },
+           {
+            title: 'Solarrcraft',
+            description:"This is the web of my entrepreneurship as a web developer, where I showcase my services and projects, with the aim of offering my services to potential clients. The page is constantly being updated, as my intention is to add new projects and improve the user experience.",
+            subtitle: 'Personal project',
+            tech : 'React,Tailwind,NextJs',
+            img: 'projects/solarrcraft.png',
+            link: 'https://www.solarrcraft.com.ar/',
+            git:'https://www.solarrcraft.com.ar/',
+            stack: [
+                'assets/stack/brand-nextjs.svg',
+                'assets/stack/brand-tailwind.svg',
+                'assets/stack/brand-react.svg'
+            ]
+        },
+        {
+            title: 'KEYMEX',
+            description:"This was a website created in a few hours in the context of the water emergency that occurred in Bahía Blanca on March 7, 2025, with the intention of gathering all the information provided by the municipality through different media in one place.",
+            subtitle: 'Work Project',
+            tech : 'React,Tailwind,NextJs',
+            img: 'projects/bahiaayuda.png',
+            link: 'https://info-bahia.vercel.app/',
+            git:'https://info-bahia.vercel.app/',
+            stack: [
+                'assets/stack/brand-nextjs.svg',
+                'assets/stack/brand-tailwind.svg',
+                'assets/stack/brand-react.svg'
+            ]
+        },
         {
             title: 'Landing Hoteles',
             description:"This is a landing page built as a foundation to showcase hotels. Its goal is to present the hotel and its services. It is designed to offer my services as a developer to hotels that could benefit from my help",
