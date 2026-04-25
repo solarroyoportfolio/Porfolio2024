@@ -44,19 +44,30 @@ export const Projects = () => {
                 'assets/stack/brand-tailwind.svg',
                 'assets/stack/brand-react.svg'
             ]
+        }, {
+            title: 'Comunicacion 360',
+            description:"Esta web fue realizada para la agencia demarketing Comuncacion 360, la particularidad de la web es que apliqué un sistema donde mediante un sheet el cliente puede modificar los textos y las imágenes de la web, con el objetivo de facilitar el proceso de actualización de la página, sin necesidad de conocimientos técnicos. La página se desarrolló utilizando Html y Tailwind, con un diseño moderno y atractivo que busca captar la atención de los usuarios interesados en los servicios de marketing ofrecidos por Comunicacion 360.",
+            subtitle: 'Work Project',
+            tech : 'Html,Tailwind',
+            img: 'projects/comuncacion.png',
+            link: 'https://www.comunicacion360.com.ar/',
+            git:'https://www.comunicacion360.com.ar/',
+            stack: [
+                'assets/stack/html.svg',
+                'assets/stack/brand-tailwind.svg',
+            ]
         },
            {
             title: 'KEYMEX',
             description:"This web was created for the KEYMEX group in the city of Bahía Blanca. The goal of the website is to showcase the services offered by the company, with a modern and attractive design, aiming to attract potential clients. The website features property filtering and similar characteristics to their main website.",
             subtitle: 'Work Project',
-            tech : 'React,Tailwind,NextJs',
+            tech : 'Html,Tailwind',
             img: 'projects/keymex.png',
             link: 'https://www.keymexlerose.com.ar/',
             git:'https://www.keymexlerose.com.ar/',
             stack: [
-                'assets/stack/brand-nextjs.svg',
+                'assets/stack/html.svg',
                 'assets/stack/brand-tailwind.svg',
-                'assets/stack/brand-react.svg'
             ]
         },
            {
