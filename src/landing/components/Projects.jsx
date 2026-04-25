@@ -49,7 +49,7 @@ export const Projects = () => {
             description:"Esta web fue realizada para la agencia demarketing Comuncacion 360, la particularidad de la web es que apliqué un sistema donde mediante un sheet el cliente puede modificar los textos y las imágenes de la web, con el objetivo de facilitar el proceso de actualización de la página, sin necesidad de conocimientos técnicos. La página se desarrolló utilizando Html y Tailwind, con un diseño moderno y atractivo que busca captar la atención de los usuarios interesados en los servicios de marketing ofrecidos por Comunicacion 360.",
             subtitle: 'Work Project',
             tech : 'Html,Tailwind',
-            img: 'projects/comuncacion.png',
+            img: 'projects/comunicacion.png',
             link: 'https://www.comunicacion360.com.ar/',
             git:'https://www.comunicacion360.com.ar/',
             stack: [
