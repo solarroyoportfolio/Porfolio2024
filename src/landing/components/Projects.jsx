@@ -46,7 +46,7 @@ export const Projects = () => {
             ]
         }, {
             title: 'Comunicacion 360',
-            description:"Esta web fue realizada para la agencia demarketing Comuncacion 360, la particularidad de la web es que apliqué un sistema donde mediante un sheet el cliente puede modificar los textos y las imágenes de la web, con el objetivo de facilitar el proceso de actualización de la página, sin necesidad de conocimientos técnicos. La página se desarrolló utilizando Html y Tailwind, con un diseño moderno y atractivo que busca captar la atención de los usuarios interesados en los servicios de marketing ofrecidos por Comunicacion 360.",
+            description:"This web was created for the marketing agency Comunicacion 360. The particularity of the web is that I applied a system where the client can modify the texts and images of the web through a sheet, with the aim of facilitating the process of updating the page without the need for technical knowledge. The page was developed using Html and Tailwind, with a modern and attractive design that seeks to capture the attention of users interested in the marketing services offered by Comunicacion 360.",
             subtitle: 'Work Project',
             tech : 'Html,Tailwind',
             img: 'projects/comunicacion.png',
